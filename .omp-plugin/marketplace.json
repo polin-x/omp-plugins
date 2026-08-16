@@ -5,13 +5,13 @@
   },
   "metadata": {
     "description": "Plugins for Oh My Pi",
-    "version": "0.1.1"
+    "version": "0.1.2"
   },
   "plugins": [
     {
       "name": "bilingual",
       "description": "Paragraph-level Chinese/English cards for English assistant replies",
-      "version": "0.1.1",
+      "version": "0.1.2",
       "category": "productivity",
       "homepage": "https://github.com/polin-x/omp-bilingual",
       "repository": "https://github.com/polin-x/omp-bilingual",
